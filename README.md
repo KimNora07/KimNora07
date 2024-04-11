@@ -4,4 +4,4 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=KimNora07&hide=$&hide_title=false&show_icons=true&include_all_commits=true&theme=onedark" />
   </a>
 </p>
-(http://mazassumnida.wtf/api/generate_badge?boj=Kimnora0623)](https://solved.ac/Kimnora0623)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=kimnora0623)](https://solved.ac/kimnora0623)
