@@ -1,3 +1,4 @@
+![header](https://capsule-render.vercel.app/api?type=Waving&height=200&text=KimNora&fontColor=d5e6f5&color=timeGradient&animation=fadeIn)
 <h3 align="center">공부 등급</h3>
 <p align="center">
   <a href="https://github.com/KimNora07">
