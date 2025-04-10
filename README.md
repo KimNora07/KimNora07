@@ -1,7 +1,4 @@
-<div align="center">
-  <h2 align="left">DevNora</h2>
-</div>
-
+<h2 align="center">DevNora</h2>
 
 ###
 
