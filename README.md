@@ -1,4 +1,7 @@
-<h2 align="left">Nora's Profile</h2>
+<div align="center">
+  <h2 align="left">DevNora</h2>
+</div>
+
 
 ###
 
