@@ -1,46 +1,68 @@
-<h1 align="center">Game Developer | Unity | C# | Indie</h1>
-
-###
-
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" bgcolor="#222" style="border-radius:15px; padding:25px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="60" height="60"/>
-        <h3 style="color:white; margin:10px 0;">Junsang Hwang</h3>
-        <p style="color:#AAA; font-size:16px;">Developer</p>
-        <div style="margin:20px 0;">
-          <a href="mailto:gimnora01@gmail.com">
-            <img src="https://img.shields.io/badge/이메일-gimnora01@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-          </a>
-        </div>
-        <div>
-          <a href="https://kimnora.tistory.com/">
-            <img src="https://img.shields.io/badge/개발_블로그-kimnora.tistory.com-orange?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img src="https://via.placeholder.com/800x200?text=The+Eternal+Show+Banner" width="100%">
+
+  <br>
+
+  <img src="https://img.shields.io/badge/노라-LV.100-white?style=for-the-badge&labelColor=black&color=yellow"> 
+  <img src="https://img.shields.io/badge/ID-54780909-lightgrey?style=for-the-badge">
+  <img src="https://img.shields.io/badge/BIRTHDAY-06--23-ff69b4?style=for-the-badge">
 </div>
 
-
-<p align="center">
-  <img src=https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white>
-  <img src=https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white>
-  <img src=https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white>
-</p>
+<br>
 
 ---
 
+<table border="0" width="100%">
+  <tr>
+    <td width="40%" valign="top">
+      <h3>테마: 끝없는 무도회</h3>
+      <p><b>The Eternal Show</b></p>
+      <br>
+      <h4>RHODE ISLAND DATA</h4>
+      <p>📂 <b>Repositories:</b> <img src="https://img.shields.io/github/directory- Hamburgers/count/본인계정?style=flat-square"></p>
+      <p>✨ <b>Total Stars:</b> <img src="https://img.shields.io/github/stars/본인계정?style=flat-square"></p>
+      <p>💬 <i>"친추 부탁드립니다! (협업 환영합니다!)"</i></p>
+    </td>
+    <td width="60%" valign="top">
+      <div align="center">
+        <b>지원 유닛 (SUPPORT UNIT)</b>
+        <table border="1">
+          <tr>
+            <td align="center" width="150">
+              <small>LV. 90</small><br>
+              <img src="https://img.shields.io/badge/DaVinci_Resolve-051224?style=for-the-badge&logo=davinci-resolve&logoColor=white"><br>
+              <small><b>Video Editor</b></small>
+            </td>
+            <td align="center" width="150">
+              <small>LV. 90</small><br>
+              <img src="https://img.shields.io/badge/Clip_Studio-000000?style=for-the-badge&logo=clip-studio-paint&logoColor=white"><br>
+              <small><b>Artist</b></small>
+            </td>
+            <td align="center" width="150">
+              <small>LV. 1</small><br>
+              <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"><br>
+              <small><b>Game Dev</b></small>
+            </td>
+          </tr>
+        </table>
+      </div>
+    </td>
+  </tr>
+</table>
 
-### 👋 저에 대하여
-- 🧠 Unity 게임 개발자입니다.
-- 🧪 인디 프로젝트와 팀 프로젝트에 적극적으로 참여하고 있습니다.
-- 🎨 게임 개발에 필요한 기획, UI 등 프로그래밍을 포함한 다양한 분야에 도전하고 있습니다.
+<br>
 
 ---
-![snake gif](https://github.com/Kimnora07/Kimnora07/blob/output/github-contribution-grid-snake.svg)
 
+<div align="center">
+  <b>위기 협약 훈장함 (CONTINGENCY CONTRACT)</b>
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=본인계정&show_icons=true&theme=tokyonight&bg_color=1a1a1a&title_color=ffcf00&text_color=ffffff" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인계정&layout=compact&theme=tokyonight&bg_color=1a1a1a&title_color=ffcf00&text_color=ffffff" height="150">
+</div>
 
+<br>
 
+<div align="right">
+  <small>Last updated: 2026-02-16</small>
+</div>
