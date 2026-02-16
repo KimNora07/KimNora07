@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Game Developer | Unity | C# | Indie</h1>
+<h1 align="center">Game Developer | Unity | C# | Indie</h1>
 
 ###
 
@@ -7,7 +7,7 @@
     <tr>
       <td align="center" bgcolor="#222" style="border-radius:15px; padding:25px;">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="60" height="60"/>
-        <h3 style="color:white; margin:10px 0;">황준상</h3>
+        <h3 style="color:white; margin:10px 0;">Junsang Hwang</h3>
         <p style="color:#AAA; font-size:16px;">Developer</p>
         <div style="margin:20px 0;">
           <a href="mailto:gimnora01@gmail.com">
