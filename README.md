@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200?text=The+Eternal+Show+Banner" width="100%">
+  <img src="./images/ProfileBanner.png" width="100%">
 
   <br>
 
