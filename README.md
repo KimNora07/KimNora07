@@ -23,7 +23,7 @@
     <td width="60%" valign="top">
       <div align="center">
         <b>Languages</b>
-        <table border="1">
+        <table border="5">
           <tr>
             <td align="center" width="150">
               <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"><br>
