@@ -14,18 +14,25 @@
 
 <table border="0" width="100%" align= "center">
   <tr>
-    <td width="50%" valign="top" align= "center">
-      <h4>[ DATA ]</h4>
-      <p>💬 
-        <i>
-          "협업 환영합니다!"
-        </i>
-      </p>
+    <td width="40%" valign="middle" align="center">
+    <p>
+      <a href="https://www.youtube.com/@noraof07" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" height="28">
+      </a>
+      <br>
+      <a href="https://kimnora.tistory.com" target="_blank">
+        <img src="https://img.shields.io/badge/Tistory%20%20-000000?style=for-the-badge&logo=tistory&logoColor=white" height="28">
+      </a>
+      <br>
+      <a href="mailto:gimnora01@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28">
+      </a>
+    </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="60%" valign="top">
       <div align="center">
         <b>Languages</b>
-        <table border="1">
+        <table border="5">
           <tr>
             <td align="center" width="150">
               <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"><br>
