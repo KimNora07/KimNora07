@@ -30,8 +30,7 @@ class Developer {
 
     vector<string> currently = {
         "Unity로 게임 개발 중",
-        "C++ 그래픽스 공부 중",
-        "새로운 프로젝트 기획 중"
+        "C++ 자료구조 및 알고리즘 공부 중"
     };
 };
 ```
