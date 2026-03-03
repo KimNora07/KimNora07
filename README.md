@@ -9,8 +9,6 @@
 ## `about.cpp`
 
 ```cpp
-// 안녕하세요! 게임 개발자 황준상입니다.
-
 class Developer {
   public:
     string alias    = "KimNora07";
@@ -24,8 +22,6 @@ class Developer {
     }
 };
 ```
-
-<img src="./divider.svg" width="100%"/>
 
 ## `stack.json`
 
@@ -48,22 +44,14 @@ class Developer {
 
 </div>
 
-<img src="./divider.svg" width="100%"/>
-
 ## `stats.exe`
 
 <div align="center">
-
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=KimNora07&show_icons=true&bg_color=0b0d10&border_color=e05252&title_color=e05252&icon_color=e05252&text_color=c8cdd4"/>
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimNora07&layout=compact&bg_color=0b0d10&border_color=e05252&title_color=e05252&text_color=c8cdd4"/>
-
 <br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=KimNora07&theme=dark&background=0b0d10&border=e05252&ring=e05252&fire=e05252&currStreakLabel=e05252&sideLabels=555d6b&dates=555d6b)
 
 </div>
-
-<img src="./divider.svg" width="100%"/>
 
 ## `links.sh`
 
