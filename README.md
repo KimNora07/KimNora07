@@ -1,7 +1,7 @@
 <!-- HERO BANNER SVG -->
 <div align="center">
   <img src="./images/ProfileBanner.png" width="100%" alt="NoraHub Banner"/>
-  <img src="./profile-strip.svg" width="100%" alt="Profile"/>
+  <img src="./images/profile-strip.svg" width="100%" alt="Profile"/>
 </div>
 
 <br/>
@@ -20,8 +20,6 @@ class Developer {
     vector<string> currently() {
       return {
         "Unity 게임 프로젝트 개발 중",
-        "C++ 그래픽스 스터디 중",
-        "Tistory 블로그에 개발 기록 중"
       };
     }
 };
