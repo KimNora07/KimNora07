@@ -1,90 +1,78 @@
+<!-- HERO BANNER SVG -->
 <div align="center">
-
-<!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=NoraHub&fontSize=72&fontColor=ff6b6b&fontAlignY=38&desc=Game%20Developer%20%7C%20Unity%20%7C%20C%2B%2B%20%7C%20C%23&descAlignY=60&descSize=16&descColor=cccccc&animation=twinkling" width="100%"/>
-
-<!-- PROFILE INFO BADGES -->
-<br/>
-
-![Name](https://img.shields.io/badge/👤_NAME-Junsang_Hwang-1a1a2e?style=for-the-badge&labelColor=2d1b1b&color=ff6b6b)
-![Age](https://img.shields.io/badge/🎂_AGE-20-1a1a2e?style=for-the-badge&labelColor=2d1b1b&color=ff6b6b)
-![Birthday](https://img.shields.io/badge/🗓️_BIRTHDAY-06--23-1a1a2e?style=for-the-badge&labelColor=2d1b1b&color=ff6b6b)
-
-<br/>
-
-<!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Game+Developer+%F0%9F%8E%AE;Unity+%7C+C%2B%2B+%7C+C%23;Always+learning+new+things...)](https://git.io/typing-svg)
-
+  <img src="./banner.svg" width="100%" alt="NoraHub Banner"/>
+  <img src="./profile-strip.svg" width="100%" alt="Profile"/>
 </div>
 
----
+<br/>
 
-## 🎮 About Me
+## `about.cpp`
 
 ```cpp
-class Developer {
-    string name     = "Junsang Hwang";
-    string alias    = "KimNora07";
-    int    age      = 20;
-    string passion  = "Game Development";
+// 안녕하세요! 게임 개발자 황준상입니다.
 
-    vector<string> currently = {
-        "Unity로 게임 개발 중",
-        "C++ 자료구조 및 알고리즘 공부 중"
-    };
+class Developer {
+  public:
+    string alias    = "KimNora07";
+    string passion  = "Game Development";
+    string engine   = "Unity";
+
+    vector<string> currently() {
+      return {
+        "Unity 게임 프로젝트 개발 중",
+        "C++ 그래픽스 스터디 중",
+        "Tistory 블로그에 개발 기록 중"
+      };
+    }
 };
 ```
 
----
+<img src="./divider.svg" width="100%"/>
 
-## 🛠️ Tech Stack
-
-### 💬 Languages
+## `stack.json`
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+<table>
+<tr>
+  <th align="center" colspan="3">💬 Languages</th>
+  <th align="center" colspan="3">⚙️ Engine & Tools</th>
+</tr>
+<tr>
+  <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="36"/><br/><sub><b>C</b></sub><br/><sub><code>LANG</code></sub></td>
+  <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="36"/><br/><sub><b>C++</b></sub><br/><sub><code>LANG</code></sub></td>
+  <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36"/><br/><sub><b>C#</b></sub><br/><sub><code>LANG</code></sub></td>
+  <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="36"/><br/><sub><b>Unity</b></sub><br/><sub><code>ENGINE</code></sub></td>
+  <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="36"/><br/><sub><b>VS</b></sub><br/><sub><code>IDE</code></sub></td>
+  <td align="center" width="100"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/><br/><sub><b>Git</b></sub><br/><sub><code>VCS</code></sub></td>
+</tr>
+</table>
 
 </div>
 
-### ⚙️ Engines & Tools
+<img src="./divider.svg" width="100%"/>
+
+## `stats.exe`
 
 <div align="center">
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=KimNora07&show_icons=true&bg_color=0b0d10&border_color=e05252&title_color=e05252&icon_color=e05252&text_color=c8cdd4"/>
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimNora07&layout=compact&bg_color=0b0d10&border_color=e05252&title_color=e05252&text_color=c8cdd4"/>
+
+<br/>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=KimNora07&theme=dark&background=0b0d10&border=e05252&ring=e05252&fire=e05252&currStreakLabel=e05252&sideLabels=555d6b&dates=555d6b)
 
 </div>
 
----
+<img src="./divider.svg" width="100%"/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=KimNora07&theme=tokyonight&background=0d1117&border=ff6b6b&ring=ff6b6b&fire=ff9f43&currStreakLabel=ff6b6b&sideLabels=c9d1d9&dates=6e7681)
-
-</div>
-
----
-
-## 🔗 Contact & Links
+## `links.sh`
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@noraof07)
-[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://kimnora.tistory.com/)
-[![Itch Io](https://img.shields.io/badge/Itch.Io-D8582C?logo=itchdotio&logoColor=white&style=for-the-badge&labelColor=D8582C)](https://noratsu.itch.io/)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+[![YouTube](https://img.shields.io/badge/▶_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@KimNora07)
+[![Tistory](https://img.shields.io/badge/✏_Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://kimnora07.tistory.com)
+[![Gmail](https://img.shields.io/badge/✉_Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@gmail.com)
 
 </div>
