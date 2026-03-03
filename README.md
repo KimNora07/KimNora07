@@ -65,13 +65,6 @@ class Developer {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KimNora07&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=ff6b6b&title_color=ff6b6b&icon_color=ff6b6b&text_color=c9d1d9&hide_border=false&rank_icon=github"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KimNora07&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=ff6b6b&title_color=ff6b6b&text_color=c9d1d9&hide_border=false"/>
-
-</div>
-
-<div align="center">
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=KimNora07&theme=tokyonight&background=0d1117&border=ff6b6b&ring=ff6b6b&fire=ff9f43&currStreakLabel=ff6b6b&sideLabels=c9d1d9&dates=6e7681)
 
 </div>
