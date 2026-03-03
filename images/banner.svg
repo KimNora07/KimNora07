@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="220" viewBox="0 0 860 220">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@700&amp;family=Share+Tech+Mono&amp;display=swap');
+    </style>
+
+    <!-- Background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"   stop-color="#0e0608"/>
+      <stop offset="50%"  stop-color="#1c0a0a"/>
+      <stop offset="100%" stop-color="#2a0e0e"/>
+    </linearGradient>
+
+    <!-- Red glow filter -->
+    <filter id="redGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Subtle glow for title -->
+    <filter id="titleGlow">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Grid pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#7a2b2b" stroke-width="0.5" opacity="0.3"/>
+    </pattern>
+
+    <!-- Scanline pattern -->
+    <pattern id="scanlines" width="1" height="4" patternUnits="userSpaceOnUse">
+      <rect width="1" height="2" fill="black" opacity="0.08"/>
+    </pattern>
+
+    <!-- Clip for rounded corners -->
+    <clipPath id="rounded">
+      <rect width="860" height="220" rx="0"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#rounded)">
+    <!-- BG -->
+    <rect width="860" height="220" fill="url(#bgGrad)"/>
+    <!-- Grid overlay -->
+    <rect width="860" height="220" fill="url(#grid)"/>
+    <!-- Scanlines -->
+    <rect width="860" height="220" fill="url(#scanlines)"/>
+
+    <!-- Red ambient glow top-left -->
+    <ellipse cx="160" cy="80" rx="200" ry="100" fill="#e05252" opacity="0.04"/>
+    <!-- Red ambient glow bottom-right -->
+    <ellipse cx="720" cy="160" rx="180" ry="90" fill="#e05252" opacity="0.05"/>
+
+    <!-- Corner brackets -->
+    <!-- TL -->
+    <path d="M 14 30 L 14 14 L 30 14" fill="none" stroke="#e05252" stroke-width="2"/>
+    <!-- TR -->
+    <path d="M 830 14 L 846 14 L 846 30" fill="none" stroke="#e05252" stroke-width="2"/>
+    <!-- BL -->
+    <path d="M 14 190 L 14 206 L 30 206" fill="none" stroke="#e05252" stroke-width="2"/>
+    <!-- BR -->
+    <path d="M 830 206 L 846 206 L 846 190" fill="none" stroke="#e05252" stroke-width="2"/>
+
+    <!-- Inner border rect -->
+    <rect x="10" y="10" width="840" height="200" fill="none" stroke="#e05252" stroke-width="0.5" opacity="0.2"/>
+
+    <!-- Decorative left bar -->
+    <rect x="60" y="40" width="2" height="140" fill="#e05252" opacity="0.4"/>
+    <rect x="65" y="60" width="1" height="100" fill="#e05252" opacity="0.2"/>
+
+    <!-- MAIN TITLE -->
+    <text
+      x="430" y="105"
+      font-family="'Rajdhani', 'Arial Black', sans-serif"
+      font-size="78"
+      font-weight="700"
+      fill="#e05252"
+      text-anchor="middle"
+      filter="url(#titleGlow)"
+      letter-spacing="8"
+    >NoraHub</text>
+
+    <!-- Subtitle line -->
+    <text
+      x="430" y="138"
+      font-family="'Share Tech Mono', 'Courier New', monospace"
+      font-size="13"
+      fill="#555d6b"
+      text-anchor="middle"
+      letter-spacing="4"
+    >// game.developer · 황준상 · KimNora07</text>
+
+    <!-- Decorative horizontal rule under subtitle -->
+    <line x1="280" y1="150" x2="580" y2="150" stroke="#e05252" stroke-width="0.5" opacity="0.4"/>
+    <line x1="390" y1="150" x2="470" y2="150" stroke="#e05252" stroke-width="1.5" opacity="0.9"/>
+
+    <!-- Bottom tag line -->
+    <text
+      x="430" y="185"
+      font-family="'Share Tech Mono', 'Courier New', monospace"
+      font-size="11"
+      fill="#3a4050"
+      text-anchor="middle"
+      letter-spacing="3"
+    >C · C++ · C# · UNITY · GAME_DEV</text>
+
+    <!-- Small decorative dots -->
+    <circle cx="240" cy="184" r="2" fill="#e05252" opacity="0.5"/>
+    <circle cx="620" cy="184" r="2" fill="#e05252" opacity="0.5"/>
+    <circle cx="250" cy="184" r="1" fill="#e05252" opacity="0.3"/>
+    <circle cx="610" cy="184" r="1" fill="#e05252" opacity="0.3"/>
+
+    <!-- Blinking cursor effect (static representation) -->
+    <rect x="572" y="123" width="8" height="14" fill="#e05252" opacity="0.7"/>
+  </g>
+</svg>

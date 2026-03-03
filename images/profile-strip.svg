@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="52" viewBox="0 0 860 52">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#141820"/>
+      <stop offset="100%" stop-color="#111418"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="860" height="52" fill="url(#bg)"/>
+  <line x1="0" y1="51" x2="860" y2="51" stroke="#1e2328" stroke-width="1"/>
+
+  <!-- NAME pill -->
+  <rect x="90" y="12" width="60" height="28" fill="#2d1b1b"/>
+  <rect x="150" y="12" width="170" height="28" fill="#161a1f" stroke="#1e2328" stroke-width="1"/>
+  <text x="120" y="31" font-family="'Share Tech Mono','Courier New',monospace" font-size="10" fill="#e05252" text-anchor="middle" letter-spacing="2">NAME</text>
+  <text x="235" y="31" font-family="'Share Tech Mono','Courier New',monospace" font-size="11" fill="#c8cdd4" text-anchor="middle">황준상 · Junsang Hwang</text>
+
+  <!-- AGE pill -->
+  <rect x="342" y="12" width="44" height="28" fill="#2d1b1b"/>
+  <rect x="386" y="12" width="40" height="28" fill="#161a1f" stroke="#1e2328" stroke-width="1"/>
+  <text x="364" y="31" font-family="'Share Tech Mono','Courier New',monospace" font-size="10" fill="#e05252" text-anchor="middle" letter-spacing="2">AGE</text>
+  <text x="406" y="31" font-family="'Share Tech Mono','Courier New',monospace" font-size="11" fill="#c8cdd4" text-anchor="middle">20</text>
+
+  <!-- BIRTHDAY pill -->
+  <rect x="458" y="12" width="82" height="28" fill="#2d1b1b"/>
+  <rect x="540" y="12" width="68" height="28" fill="#161a1f" stroke="#1e2328" stroke-width="1"/>
+  <text x="499" y="31" font-family="'Share Tech Mono','Courier New',monospace" font-size="10" fill="#e05252" text-anchor="middle" letter-spacing="2">BIRTHDAY</text>
+  <text x="574" y="31" font-family="'Share Tech Mono','Courier New',monospace" font-size="11" fill="#c8cdd4" text-anchor="middle">06-23</text>
+
+  <!-- FOCUS pill -->
+  <rect x="640" y="12" width="60" height="28" fill="#2d1b1b"/>
+  <rect x="700" y="12" width="84" height="28" fill="#161a1f" stroke="#1e2328" stroke-width="1"/>
+  <text x="670" y="31" font-family="'Share Tech Mono','Courier New',monospace" font-size="10" fill="#e05252" text-anchor="middle" letter-spacing="2">FOCUS</text>
+  <text x="742" y="31" font-family="'Share Tech Mono','Courier New',monospace" font-size="11" fill="#c8cdd4" text-anchor="middle">Game Dev</text>
+</svg>
