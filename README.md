@@ -1,7 +1,6 @@
 <!-- HERO BANNER SVG -->
 <div align="center">
   <img src="./images/ProfileBanner.png" width="100%" alt="NoraHub Banner"/>
-  <img src="./images/profile-strip.svg" width="100%" alt="Profile"/>
 </div>
 
 <br/>
