@@ -84,7 +84,7 @@ class Developer {
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@noraof07)
 [![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://kimnora.tistory.com/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gimnora01@gmail.com)
+[![Itch Io](https://img.shields.io/badge/Itch.Io-D8582C?logo=itchdotio&logoColor=white&style=for-the-badge&labelColor=D8582C)](https://noratsu.itch.io/)
 
 </div>
 
